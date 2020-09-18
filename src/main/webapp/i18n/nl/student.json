@@ -1,0 +1,24 @@
+{
+  "jhiappApp": {
+    "student": {
+      "home": {
+        "title": "Students",
+        "createLabel": "Maak een nieuwe Student",
+        "createOrEditLabel": "Maak of wijzig een Student",
+        "notFound": "No Students found"
+      },
+      "created": "A new Student is created with identifier {{ param }}",
+      "updated": "A Student is updated with identifier {{ param }}",
+      "deleted": "A Student is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Bent u zeker dat u Student {{ id }} wilt verwijderen?"
+      },
+      "detail": {
+        "title": "Student"
+      },
+      "name": "Name",
+      "age": "Age",
+      "teacher": "Teacher"
+    }
+  }
+}
