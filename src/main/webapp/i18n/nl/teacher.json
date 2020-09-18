@@ -1,0 +1,25 @@
+{
+  "jhiappApp": {
+    "teacher": {
+      "home": {
+        "title": "Teachers",
+        "createLabel": "Maak een nieuwe Teacher",
+        "createOrEditLabel": "Maak of wijzig een Teacher",
+        "notFound": "No Teachers found"
+      },
+      "created": "A new Teacher is created with identifier {{ param }}",
+      "updated": "A Teacher is updated with identifier {{ param }}",
+      "deleted": "A Teacher is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Bent u zeker dat u Teacher {{ id }} wilt verwijderen?"
+      },
+      "detail": {
+        "title": "Teacher"
+      },
+      "name": "Name",
+      "age": "Age",
+      "kemu": "Kemu",
+      "student": "Student"
+    }
+  }
+}

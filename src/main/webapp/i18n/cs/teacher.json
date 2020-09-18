@@ -1,0 +1,25 @@
+{
+  "jhiappApp": {
+    "teacher": {
+      "home": {
+        "title": "Teachers",
+        "createLabel": "Vytvořit Teacher",
+        "createOrEditLabel": "Vytvořit nebo upravit Teacher",
+        "notFound": "No Teachers found"
+      },
+      "created": "Byl vytvořen potomek entity Teacher s identifikátorem {{ param }}",
+      "updated": "Potomek entity Teacher s identifikátorem {{ param }} byl upravený.",
+      "deleted": "Potomek entity Teacher s identifikátorem {{ param }} bol smazaný.",
+      "delete": {
+        "question": "Jste si jisti, že chcete smazat Teacher {{ id }}?"
+      },
+      "detail": {
+        "title": "Teacher"
+      },
+      "name": "Name",
+      "age": "Age",
+      "kemu": "Kemu",
+      "student": "Student"
+    }
+  }
+}
